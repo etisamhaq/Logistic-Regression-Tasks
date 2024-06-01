@@ -1,1 +1,1 @@
-# Logistic-Regression-Tasks-
+# Logistic-Regression-Tasks
